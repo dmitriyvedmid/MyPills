@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Pills</string>
+    <string name="next">Далі</string>
+    <string name="drug_name">Назва ліків</string>
+    <string name="units">Одиниця виміру</string>
+    <string name="taking_time">Час Прийому</string>
+    <string name="time_picker_title">Оберіть час</string>
+    <string name="drug_amount">Доза</string>
+    <string name="amount_hint">Доза ліків</string>
+    <string name="taking_inteval">Інтервал прийому</string>
+    <string name="n">N</string>
+    <string name="left_amount">Кількість ліків у наявності</string>
+    <string name="left_hint">кількість ліків</string>
+    <string name="empty_list_text">Додати препарат</string>
+    <string name="delete">Видалити</string>
+    <string name="calendar">Календар</string>
+    <string name="cycle_length">Тривалість циклу</string>
+    <string name="previous_menstruation_length">Тривалість попередньої менструації</string>
+    <string name="previous_menstruation_start">Початок попередньої менструації</string>
+    <string name="date_picker_title">Оберіть дату</string>
+</resources>
